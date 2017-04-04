@@ -10,5 +10,5 @@ PRODUCT_PACKAGES += \
     audio.primary.android_ia \
     audio.usb.default \
     audio_hal_configurable \
-    audio_hal_nuc
+    audio_hal_skl
 
